@@ -1,0 +1,18 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingblogs",
+        "prod_uri": "mysql://root:@localhost/codingblogs",
+        "fb_url": "https://facebook.com/codingblogs",
+        "tw_url": "https://twitter.com/codingblogs",
+        "gh_url": "https://github.com/codingblogs",
+        "blog_name": "Coding Blogs",
+        "tag_line": "Heaven for programmers",
+        "gmail-user": "shivangtomar257@gmail.com",
+        "gmail-password": "St@23072003",
+        "no_of_posts": 5,
+        "login_image":"login.svg",
+        "admin_user":"shivangtomar257@gmail.com",
+        "admin_password": "St@23072003"
+    }
+}
